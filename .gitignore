@@ -4,3 +4,5 @@
 /pom.xml
 /Code Wars.iml
 /.idea/
+/src/main/java/StringMerger.java
+/src/test/java/StringMergerTest.java
